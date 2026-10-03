@@ -1,0 +1,40 @@
+-1982 -750 -1194 -50 72 etl_adlernest_second_stage
+-944 138 -482 406 72 etl_adlernest_second_stage
+-1138 506 -914 1138 72 etl_adlernest_second_stage
+-1138 1170 -458 1582 72 etl_adlernest_second_stage
+-406 1186 -26 1718 72
+-409 669 140 1062 72 etl_adlernest_second_stage
+-862 458 -454 1094 88 etl_adlernest_second_stage
+-162 -66 102 218 -40 etl_adlernest_second_stage
+154 -70 391 1192 -96 etl_adlernest_second_stage
+266 1216 550 1718 -72 etl_adlernest_second_stage
+-357 -350 -205 629 72 etl_adlernest_second_stage
+-176 -365 485 -172 72 etl_adlernest_second_stage
+346 -959 477 -381 72 etl_adlernest_second_stage
+-422 -1566 1134 -986 72 etl_adlernest_second_stage
+-422 -2397 62 -1778 88 etl_adlernest_second_stage
+92 -2390 406 -1966 88 etl_adlernest_second_stage
+-750 -2958 -22 -2490 104 etl_adlernest_second_stage
+482 -2402 1038 -1954 72
+76 -3310 1038 -3026 -152
+-550 -3550 -74 -2770 -136
+98 -3734 862 -3386 -136
+-174 -2566 406 -2474 -336
+-546 -2402 1118 -990 -296 etl_adlernest_first_stage
+722 298 1134 1190 -72 etl_adlernest_second_stage
+946 -292 1118 233 -96 etl_adlernest_second_stage
+946 -965 1118 -822 72 etl_adlernest_second_stage
+2 412 102 582 40 etl_adlernest_second_stage
+-1206 -454 -978 406 72 etl_adlernest_second_stage
+-1702 -1550 -978 -274 -96 etl_adlernest_first_stage
+-1613 -2198 -1194 -1599 -96 etl_adlernest_first_stage
+-697 -1944 -538 -1291 -152 etl_adlernest_first_stage
+2580 -3155 2901 -1637 -96 etl_adlernest_first_stage
+1235 -3410 2671 -3065 -96 etl_adlernest_first_stage
+2572 -1335 3758 -725 -96 etl_adlernest_first_stage
+1322 -1505 1903 1058 -96 etl_adlernest_first_stage
+1706 1076 1918 1190 -96 etl_adlernest_first_stage
+409 658 700 1165 -96 etl_adlernest_second_stage
+1911 -355 2342 -82 -96 etl_adlernest_first_stage
+2389 -430 2684 -173 -96 etl_adlernest_first_stage
+2554 -710 2880 -458 -96 etl_adlernest_first_stage

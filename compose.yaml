@@ -1,0 +1,28 @@
+services:
+  etserver:
+    image: oksii/etlegacy:v2.86.0-13
+    platform: linux/amd64
+    container_name: et
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    ports:
+      - "27960:27960/udp"
+    volumes:
+      - ./maps:/maps:ro
+      - ./../legacy-configs:/legacy/server/settings:ro
+      - ./homepath:/legacy/homepath
+      - ./qagame/qagame.mp.x86_64.so:/legacy/server/legacy/qagame.mp.x86_64.so:ro
+      # Omni-bot waypoints for maps the image has none for (one set per bsp,
+      # shared by its map variants)
+      - ./omni-nav/etl_adlernest.way:/legacy/server/legacy/omni-bot/et/nav/etl_adlernest.way:ro
+      - ./omni-nav/etl_adlernest.gm:/legacy/server/legacy/omni-bot/et/nav/etl_adlernest.gm:ro
+      - ./omni-nav/etl_adlernest_goals.gm:/legacy/server/legacy/omni-bot/et/nav/etl_adlernest_goals.gm:ro
+    environment:
+      SERVER_HOSTNAME: "^jo^ko^lo^eo^6o ^7deathmatch ^2 no downloads"
+      ADVERT: "1"
+      AUTO_UPDATE: "false"
+      REFPASSWORD: "bonker"
+      OMNIBOT: "1"
+      STARTMAP: "etl_adlernest"
+      SERVERCONF: "deathmatch"
